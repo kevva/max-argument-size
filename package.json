@@ -26,13 +26,10 @@
     "max"
   ],
   "dependencies": {
-    "execa": "^0.4.0"
+    "execa": "^0.6.3"
   },
   "devDependencies": {
     "ava": "*",
     "xo": "*"
-  },
-  "xo": {
-    "esnext": true
   }
 }
