@@ -1,6 +1,6 @@
 {
   "name": "max-argument-size",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get maximum argument size",
   "license": "MIT",
   "repository": "kevva/max-argument-size",
