@@ -28,6 +28,10 @@ maxArgumentSize().then(max => {
 
 Returns a promise for a number with the maximum argument size.
 
+### maxArgumentSize.sync()
+
+Returns a number with the maximum argument size.
+
 
 ## License
 
