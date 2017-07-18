@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save max-argument-size
+$ npm install max-argument-size
 ```
 
 
@@ -26,13 +26,13 @@ maxArgumentSize().then(max => {
 
 ### maxArgumentSize()
 
-Returns a Promise for a number with the maximum argument size.
+Returns a `Promise` for a `number` with the maximum argument size.
 
 ### maxArgumentSize.sync()
 
-Returns a number with the maximum argument size.
+Returns a `number` with the maximum argument size.
 
 
 ## License
 
-MIT © [Kevin Martensson](https://github.com/kevva)
+MIT © [Kevin Mårtensson](https://github.com/kevva)

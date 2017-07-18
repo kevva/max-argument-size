@@ -1,35 +1,35 @@
 {
-  "name": "max-argument-size",
-  "version": "1.1.0",
-  "description": "Get maximum argument size",
-  "license": "MIT",
-  "repository": "kevva/max-argument-size",
-  "author": {
-    "name": "Kevin Martensson",
-    "email": "kevinmartensson@gmail.com",
-    "url": "github.com/kevva"
-  },
-  "engines": {
-    "node": ">=4"
-  },
-  "scripts": {
-    "test": "xo && ava"
-  },
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "arg",
-    "arguments",
-    "conf",
-    "get",
-    "max"
-  ],
-  "dependencies": {
-    "execa": "^0.6.3"
-  },
-  "devDependencies": {
-    "ava": "*",
-    "xo": "*"
-  }
+	"name": "max-argument-size",
+	"version": "1.1.0",
+	"description": "Get maximum argument size",
+	"license": "MIT",
+	"repository": "kevva/max-argument-size",
+	"author": {
+		"name": "Kevin Mårtensson",
+		"email": "kevinmartensson@gmail.com",
+		"url": "github.com/kevva"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"arg",
+		"arguments",
+		"conf",
+		"get",
+		"max"
+	],
+	"dependencies": {
+		"execa": "^0.7.0"
+	},
+	"devDependencies": {
+		"ava": "*",
+		"xo": "*"
+	}
 }
